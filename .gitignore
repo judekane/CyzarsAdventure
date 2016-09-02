@@ -8,15 +8,4 @@
 out
 gen
 .gitignore
-.idea/Beginner Site.iml
-.idea/copyright/
-.idea/encodings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
-CharacterSheets/
-forest_header.jpg
-index.html
-pages/
-script.js
-style.css
+
